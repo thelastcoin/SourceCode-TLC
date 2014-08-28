@@ -1,0 +1,9 @@
+Building TheLastCoin
+
+See doc/readme-qt.rst for instructions on building TheLastCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TheLastCoin.
+
+See doc/build-*.txt for instructions on building thelastcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TheLastCoin.
